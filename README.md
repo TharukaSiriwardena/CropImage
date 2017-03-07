@@ -10,11 +10,11 @@ Jquery, bootstrap, html, css and javascript are the developing languages of this
 
 ## Options
 
-*Select Image by File Select, Url or Drag'n'Drop*
+**Select Image by File Select, Url or Drag'n'Drop**
 	
-*Crop Image to specific size in modal window*
+**Crop Image to specific size in modal window**
 	
-*Upload image with selected area coordinates*
+**Upload image with selected area coordinates**
 
 ## Getting started
 
@@ -24,7 +24,7 @@ You can download the ‘CropImage’ folder and put it into the following folder
   
 Then create an index.html file and include the below code
 
-```
+```html
   <html>
 	<head>
 		<script src='tinymce\js\tinymce\tinymce.min.js'></script>
@@ -45,14 +45,15 @@ Then create an index.html file and include the below code
 </html>
 ```
 
-Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online.
+**Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online.**
 
 #Contributors
 
 If you have any commitment of this programme feel free to contact us.
-Tharuka Siriwardena - tharukasiriwardena27@gmail.com 
-Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
-Shahitha Nazrin	    - shahithanazrin@gmail.com
+
+[]Tharuka Siriwardena - tharukasiriwardena27@gmail.com 
+[]Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
+[]Shahitha Nazrin	    - shahithanazrin@gmail.com
 		OR
 		 	
       cscprojectuoj@gmail.com
