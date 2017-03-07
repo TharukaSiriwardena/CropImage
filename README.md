@@ -10,11 +10,11 @@ Jquery, bootstrap, html, css and javascript are the developing languages of this
 
 ## Options
 
-**Select Image by File Select, Url or Drag'n'Drop**
+* Select Image by File Select, Url or Drag'n'Drop
 	
-**Crop Image to specific size in modal window**
+* Crop Image to specific size in modal window
 	
-**Upload image with selected area coordinates**
+* Upload image with selected area coordinates
 
 ## Getting started
 
@@ -54,6 +54,7 @@ If you have any commitment of this programme feel free to contact us.
 * Tharuka Siriwardena 	    - tharukasiriwardena27@gmail.com 
 * Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
 * Shahitha Nazrin	    - shahithanazrin@gmail.com
-		OR
+
+	OR
 		 	
       * cscprojectuoj@gmail.com
