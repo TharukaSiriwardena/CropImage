@@ -38,7 +38,7 @@ This folder contain the styles and gif files
 	components / imgareaselect/ scripts
 This contains the ‘jquery.imgareaselect.js’ file and it lets user to selecting a rectangle area of an image.
 
-**<a href=" http://www.odyniec.net/projects/imgareaselect/usage.html#api-methods">More details.......</a>**
+**More details...... http://www.odyniec.net/projects/imgareaselect/usage.html#api-methods"**
 
 ##css/
 This contains the ‘jquery.Image-Editor.css’ file.
@@ -55,15 +55,15 @@ TinyMCE will load the plugin.js file if you use the tinymce.js file in your page
 
 API       | Summary
 ----------|--------
-tinymce.PluginManager.add ( ) 			| CropImage plugin that adds a toolbar button and menu item.
+tinymce.PluginManager.add ( ) 			|CropImage plugin that adds a toolbar button and menu item.
 
-editor.addButton ( ) 				| Add a button that opens a window
+editor.addButton ( ) 				|Add a button that opens a window
 
-editor.windowManager.open ( )			| open a window
+editor.windowManager.open ( )			|open a window
 
-editor.insertContent ( )			| Insert content when the window form is submitted
+editor.insertContent ( )			|Insert content when the window form is submitted
 
-editor.addMenuItem ( )				| Adds a menu item to the tools menu
+editor.addMenuItem ( )				|Adds a menu item to the tools menu
 
 
 This CropImage plugin can now loaded using the tinymce.init plugins option.
