@@ -45,4 +45,7 @@ Then create an index.html file and include the below code
 </html>
 ```
 
-* Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online. *
+* Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online. 
+
+ ### demo
+ <a href="https://github.com/TharukaSiriwardena/CropImage/blob/master/dialog.html">Click here</a>
