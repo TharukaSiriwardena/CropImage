@@ -10,9 +10,9 @@ Jquery, bootstrap, html, css and javascript are the developing languages of this
 
 ## Options
 
-•	Select Image by File Select, Url or Drag'n'Drop
-•	Crop Image to specific size in modal window
-•	Upload image with selected area coordinates
+	*Select Image by File Select, Url or Drag'n'Drop*
+	*Crop Image to specific size in modal window*
+	*Upload image with selected area coordinates*
 
 ## Getting started
 
