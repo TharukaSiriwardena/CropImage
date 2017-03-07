@@ -11,24 +11,24 @@ This contains ‘jquery.Image-Editor.js’ file.
 Variable 
 $ - jQuery
 
-Functions
-
-ImageEditor() 	 		- all the variables and functions declared inside of this function.
-input()		 		- get the HTML <input/>  tag
-div()  			 	- get the HTML <div/>  tag
-a()  		 		- get the HTML <a/>  tag
-img()  		 		- get the HTML <img/>  tag
-removeAreaSelect()  		- remove the selected area of the image
-cleanImages()			-clean the source image
-setLoading()			-load the progress bar
-setOriginalSize()		-set the image original size into image attribute
-setImages()			-load the image according to the image attribute
-drawImage()			-show image according to the selected area aside of the window
-setAreaSelect()			-set the viewport of the selected image
-fileAllowed()			-allowed file types (ex- : jpeg, jpg, png, gif only)
-readFile()  			-read the cropped image url ( i.e the url in base64 bit values )
-handleDragOver() 		-handle drag’n’drop of the image
-saveCrop()			-save the crop image
+Functions | Summary
+----------|--------
+ImageEditor() 	 		| all the variables and functions declared inside of this function.
+input()		 		| get the HTML <input/>  tag
+div()  			 	| get the HTML <div/>  tag
+a()  		 		| get the HTML <a/>  tag
+img()  		 		| get the HTML <img/>  tag
+removeAreaSelect()  		| remove the selected area of the image
+cleanImages()			|clean the source image
+setLoading()			|load the progress bar
+setOriginalSize()		|set the image original size into image attribute
+setImages()			|load the image according to the image attribute
+drawImage()			|show image according to the selected area aside of the window
+setAreaSelect()			|set the viewport of the selected image
+fileAllowed()			|allowed file types (ex- : jpeg, jpg, png, gif only)
+readFile()  			|read the cropped image url ( i.e the url in base64 bit values )
+handleDragOver() 		|handle drag’n’drop of the image
+saveCrop()			|save the crop image
 
 ##components/
 
@@ -53,15 +53,17 @@ These jquery files  are the core of this hole plugin and it includes the API of 
 
 TinyMCE will load the plugin.js file if you use the tinymce.js file in your page. If you use the tinymce.min.js file it will load the plugin.min.js file. 
 
-tinymce.PluginManager.add ( ) 			|- CropImage plugin that adds a toolbar button and menu item.
+API       | Summary
+----------|--------
+tinymce.PluginManager.add ( ) 			| CropImage plugin that adds a toolbar button and menu item.
 
-editor.addButton ( ) 				|- Add a button that opens a window
+editor.addButton ( ) 				| Add a button that opens a window
 
-editor.windowManager.open ( )			|- open a window
+editor.windowManager.open ( )			| open a window
 
-editor.insertContent ( )			|- Insert content when the window form is submitted
+editor.insertContent ( )			| Insert content when the window form is submitted
 
-editor.addMenuItem ( )				|- Adds a menu item to the tools menu
+editor.addMenuItem ( )				| Adds a menu item to the tools menu
 
 
 This CropImage plugin can now loaded using the tinymce.init plugins option.
