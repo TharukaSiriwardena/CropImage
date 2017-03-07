@@ -1,4 +1,4 @@
-<h4>CropImage</h4>
+# CropImage
 Image Editor for TinyMCE
 
 ## Synopsis about this Plugin
@@ -18,7 +18,7 @@ Jquery, bootstrap, html, css and javascript are the developing languages of this
 
 You can download the ‘CropImage’ folder and put it into the following folder structure
 	
- ``` \tinymce\js\tinymce\plugins\```
+  	\tinymce\js\tinymce\plugins\
   
 Then create an index.html file and include the below code
 
@@ -43,4 +43,4 @@ Then create an index.html file and include the below code
 </html>
 ```
 
-** Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online. **
+* Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online. *
