@@ -51,9 +51,9 @@ Then create an index.html file and include the below code
 
 If you have any commitment of this programme feel free to contact us.
 
-[]Tharuka Siriwardena - tharukasiriwardena27@gmail.com 
-[]Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
-[]Shahitha Nazrin	    - shahithanazrin@gmail.com
+* Tharuka Siriwardena 	    - tharukasiriwardena27@gmail.com 
+* Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
+* Shahitha Nazrin	    - shahithanazrin@gmail.com
 		OR
 		 	
-      cscprojectuoj@gmail.com
+      * cscprojectuoj@gmail.com
