@@ -47,5 +47,12 @@ Then create an index.html file and include the below code
 
 Note-: This plugin we can use in online as the bootstrap.min.css, bootstrap.min.js and jquery.min.js loaded to the interface using online.
 
- ##demo
- <a href="dialog.html">Click here</a>
+#Contributors
+
+If you have any commitment of this programme feel free to contact us.
+Tharuka Siriwardena - tharukasiriwardena27@gmail.com 
+Dimuthu Anuraj	    - dimuthuanuraj@gmail.com
+Shahitha Nazrin	    - shahithanazrin@gmail.com
+		OR
+		 	
+      cscprojectuoj@gmail.com
