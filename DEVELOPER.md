@@ -14,10 +14,10 @@ $ - jQuery
 Functions | Summary
 ----------|--------
 ImageEditor() 	 		| all the variables and functions declared inside of this function.
-input()		 		| get the HTML <!--<input>--> tag
-div()  			 	| get the HTML <div>  tag
-a()  		 		| get the HTML <a>  tag
-img()  		 		| get the HTML <img>  tag
+input()		 		| get the HTML "input" tag
+div()  			 	| get the HTML "div"  tag
+a()  		 		| get the HTML "a" tag
+img()  		 		| get the HTML "img"  tag
 removeAreaSelect()  		| remove the selected area of the image
 cleanImages()			|clean the source image
 setLoading()			|load the progress bar
